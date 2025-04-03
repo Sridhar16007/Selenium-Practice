@@ -41,8 +41,6 @@ public class DropDowns {
 			System.out.println(all.getText());
 		}
 		
-		
-		
 	}
 
 }
