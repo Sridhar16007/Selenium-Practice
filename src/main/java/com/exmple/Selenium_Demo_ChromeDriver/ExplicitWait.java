@@ -27,6 +27,7 @@ public class ExplicitWait {
 		//driver.switchTo().alert().accept();
 		//if we run this we will get noSuchElement, coz of the delay in alert pop up
 		
+		//invisibility of an element
 		
 	}
 
